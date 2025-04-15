@@ -39,7 +39,7 @@ The % refund is based on **pure randomness** AND your **server activity**.
 
 ## ✅ How To Place A Bet
 
-1. Head over to the `#events` channel when the panel is live.
+1. Head over to `#events` when the panel is live.
 2. Enter the XP you want to bet, and confirm.
 3. You’ll see options to choose a team.
 4. Sit back and enjoy the match — XP will be updated after it's over.
