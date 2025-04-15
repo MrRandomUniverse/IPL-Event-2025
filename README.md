@@ -2,7 +2,7 @@
 
 Welcome to the **IPL 2025 Betting Panel**, proudly hosted by **Mr. Random’s Discord Server**!  
 Think you know cricket? Put your XP on the line and win big. With random refunds, live scores, custom commands, and Nitro prizes — this season’s gonna be wild.
-Managed and maintained by 👨‍💻 **Lakshay** and 👨‍💻 **RKN**, the brains behind the operation.
+/n Managed and maintained by 👨‍💻 **Lakshay** and 👨‍💻 **RKN**, the brains behind the operation.
 
 ![Banner](https://media.discordapp.net/attachments/782132328561508354/1361827854303760384/Final_Banner.jpg?ex=68002c86&is=67fedb06&hm=2f55b67c75fddb0254e7090fa3a273c44d702a6b60533a2631f0e753fc9871e1&=&format=webp&width=1624&height=913)
 ---
