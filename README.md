@@ -3,6 +3,7 @@
 Welcome to the **IPL 2025 Betting Panel**, proudly hosted by **Mr. Random’s Discord Server**!  
 Think you know cricket? Put your XP on the line and win big. With random refunds, live scores, custom commands, and Nitro prizes — this season’s gonna be wild.
 
+![Banner](https://media.discordapp.net/attachments/782132328561508354/1361827854303760384/Final_Banner.jpg?ex=68002c86&is=67fedb06&hm=2f55b67c75fddb0254e7090fa3a273c44d702a6b60533a2631f0e753fc9871e1&=&format=webp&width=1624&height=913)
 ---
 
 ## 📅 When It Happens
@@ -71,16 +72,19 @@ At the end of the IPL season:
 ### `.ipl-lb`
 - View your **rank** on the leaderboard.
 - See **top winners**, **top losers**, and where you stand.
+  
 ![Leaderboard SS](https://media.discordapp.net/attachments/908385045012697148/1361819829325266944/New_Project_2.png?ex=6800250c&is=67fed38c&hm=0506821dcdddabb478dd730125e6b2e919f8f07b33f3f99cc7042fe910dd34b1&=&format=webp&quality=lossless&width=1200&height=675)
 
 ### `.match`
 - Get a full IPL schedule
 - Never miss a game again!
+  
 ![Match SS](https://media.discordapp.net/attachments/1350520820291604634/1361816504299163769/image.png?ex=680021f3&is=67fed073&hm=5a90624a8cdaa5fa525152c08b90af800507c25dd119e78a765943047eeb3027&=&format=webp&quality=lossless&width=477&height=263)
 
 ### `score` (used in regular messages)
 - Just type **“score”** anywhere in a message.
 - You’ll instantly get the **latest live IPL score** in short format.
+  
 ![Score SS](https://media.discordapp.net/attachments/908385045012697148/1361816730569281636/image.png?ex=68002229&is=67fed0a9&hm=28851944c196dfac6151c42ee3a5b26e4b9eaa3255369161526f54f1b5df0e3b&=&format=webp&quality=lossless&width=479&height=80)
 
 ### `/scoreboard`
@@ -89,6 +93,7 @@ At the end of the IPL season:
   - Fall of wickets
   - Partnerships
   - Extras and more!
+    
 ![Scoreboard SS](https://media.discordapp.net/attachments/908385045012697148/1361817378115158149/image.png?ex=680022c4&is=67fed144&hm=47495b3d37e4724154a53d7e48577e13d934d1f01188f55f3faa4010b8ae4e7c&=&format=webp&quality=lossless&width=628&height=306)
 
 ---
@@ -167,7 +172,7 @@ Here’s exactly how everything works behind the scenes:
 
 - Bots take this raw data and **convert it into a readable and displayable format**.
 - This is mainly for internal clarity — makes it easier to double-check everything.
-
+  
 ![Bot Processing](https://media.discordapp.net/attachments/1193830163075563581/1361810285538574520/image.png?ex=68001c29&is=67fecaa9&hm=96791c7d1aa0b873b64ed5fed1303948ed87ac02cc3375374b74633a51bf42da&=&format=webp&quality=lossless&width=657&height=359)
 ---
 
@@ -175,14 +180,15 @@ Here’s exactly how everything works behind the scenes:
 
 - The processed bet information is **posted publicly** in the `#server-notifs` channel.
 - Everyone can see who bet on what and for how much — 100% transparency.
-
+  
 ![Public Bet](https://media.discordapp.net/attachments/782132328561508354/1361822485728858353/image.png?ex=68002786&is=67fed606&hm=266248d5b7f890edefb74cd6741b5188455207d42077c333f21061bd9e657f94&=&format=webp&quality=lossless&width=563&height=371)
 ---
 
 ### 🏁 Step 4: Match Ends — Bet Resolution
 
 - After the match ends and we have a result, the **Bet Professor** steps in.
-- It processes all bets, checks which team won, and **removes or rewards XP** accordingly — all in a private **backend channel**.
+- It processes all bets, checks which team won, and **removes or rewards XP** accordingly.
+  
 ![Win/Loss](https://media.discordapp.net/attachments/782132328561508354/1361824006998593710/New_Project_5.png?ex=680028f0&is=67fed770&hm=ae06f28ec4f0d76608955a0e4c445ab328c0aa74a713297e5cbc2cb421a4c8e5&=&format=webp&quality=lossless&width=516&height=195)
 ---
 
@@ -190,6 +196,7 @@ Here’s exactly how everything works behind the scenes:
 
 - The final XP results (who gained, who lost, and how much) are then **automatically sent to the public `#server-notifs`** channel.
 - This is where users get to see how they performed after the match.
+  
 ![Final Display](https://media.discordapp.net/attachments/782132328561508354/1361824907545284739/New_Project_6.png?ex=680029c7&is=67fed847&hm=6abfc40fd542ff50e0edc8a026e5fce7d4be12c7d7a3e6b2f189e23091346b4c&=&format=webp&quality=lossless&width=516&height=172)
 ---
 
