@@ -207,7 +207,7 @@ Here’s exactly how everything works behind the scenes:
 ## ❓ Need Help?
 
 Got questions or facing an issue?  
-Just ask in the `#support` channel or ping one of the mods — we’ve got your back.
+Just ask in the `#help=and-suggest` channel or ping one of the mods — we’ve got your back.
 
 Let the XP battles begin. May your bets be bold, your teams victorious, and your refunds generous.  
 **Good luck, May the XP gods and Mr. Random be in your favor.** 🎲🔥🏏
