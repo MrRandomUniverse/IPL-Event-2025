@@ -134,6 +134,15 @@ To keep things fair for **non-bettors** and prevent farming:
 
 ---
 
+### 💸 XP Betting Limits
+
+- To maintain fairness and prevent leaderboard exploitation, Betable XP is capped at **50,000**.
+- This ensures no user can gain an unfair advantage through excessive betting.
+
+> 🚫 Prevents leaderboard abuse through excessive XP betting.
+
+---
+
 ### 🤖 Meet the Bet Professor
 
 We call it **The Bet Professor** (originally Bet Processor) — our very own AI that handles the boring stuff:
