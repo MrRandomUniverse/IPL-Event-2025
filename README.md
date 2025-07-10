@@ -7,7 +7,7 @@ Managed and maintained by 👨‍💻 **Lakshay** and 👨‍💻 **RKN**, the b
 
 [![Join our Discord](https://img.shields.io/discord/769713917882400798?label=Join%20Us%20on%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/mrrandom)
 
-![Banner](images\Final_Banner.jpg)
+![Banner](images/Final_Banner.jpg)
 ---
 
 ## 📅 When It Happens
@@ -48,7 +48,7 @@ The % refund is based on **pure randomness** AND your **server activity**.
 3. You’ll see options to choose a team.
 4. Sit back and enjoy the match — XP will be updated after it's over.
 
-![XP Screenshot](images\howtoplace.png)
+![XP Screenshot](images/howtoplace.png)
 
 ---
 
@@ -77,19 +77,19 @@ At the end of the IPL season:
 - View your **rank** on the leaderboard.
 - See **top winners**, **top losers**, and where you stand.
   
-![Leaderboard SS](images\leaderboard.png)
+![Leaderboard SS](images/leaderboard.png)
 
 ### `.match`
 - Get a full IPL schedule
 - Never miss a game again!
   
-![Match SS](images\todaymatch.png)
+![Match SS](images/todaymatch.png)
 
 ### `score` (used in regular messages)
 - Just type **“score”** anywhere in a message.
 - You’ll instantly get the **latest live IPL score** in short format.
   
-![Score SS](images\score.png)
+![Score SS](images/score.png)
 
 ### `/scoreboard`
 - Use this command to get a **full match breakdown**:
@@ -98,7 +98,7 @@ At the end of the IPL season:
   - Partnerships
   - Extras and more!
     
-![Scoreboard SS](images\scoreboard.png)
+![Scoreboard SS](images/scoreboard.png)
 
 ---
 
@@ -153,7 +153,7 @@ We call it **The Bet Professor** (originally Bet Processor) — our very own AI 
 - Calculates winners and adjusts XP
 - Cleans up all bets and resets the panel for the **next event**
 
-![Processing Bets](images\betprocessor.png)
+![Processing Bets](images/betprocessor.png)
 
 
 
@@ -178,7 +178,7 @@ Here’s exactly how everything works behind the scenes:
   - How much XP
   - Which team they chose
 
-![Bet Logged](images\betlogged.png)
+![Bet Logged](images/betlogged.png)
 ---
 
 ### 🔄 Step 2: Bot Processing
@@ -186,7 +186,7 @@ Here’s exactly how everything works behind the scenes:
 - Bots take this raw data and **convert it into a readable and displayable format**.
 - This is mainly for internal clarity — makes it easier to double-check everything.
   
-![Bot Processing](images\betprocessing.png)
+![Bot Processing](images/betprocessing.png)
 ---
 
 ### 📢 Step 3: Public Bet Display
@@ -194,7 +194,7 @@ Here’s exactly how everything works behind the scenes:
 - The processed bet information is **posted publicly** in the `#server-notifs` channel.
 - Everyone can see who bet on what and for how much — 100% transparency.
   
-![Public Bet](images\publicbet.png)
+![Public Bet](images/publicbet.png)
 ---
 
 ### 🏁 Step 4: Match Ends — Bet Resolution
@@ -202,7 +202,7 @@ Here’s exactly how everything works behind the scenes:
 - After the match ends and we have a result, the **Bet Professor** steps in.
 - It processes all bets, checks which team won, and **removes or rewards XP** accordingly.
   
-![Win/Loss](images\win&loose.png)
+![Win/Loss](images/win&loose.png)
 ---
 
 ### 📢 Step 5: Final XP Outcome Display
@@ -210,7 +210,7 @@ Here’s exactly how everything works behind the scenes:
 - The final XP results (who gained, who lost, and how much) are then **automatically sent to the public `#server-notifs`** channel.
 - This is where users get to see how they performed after the match.
   
-![Final Display](images\finaldisplay.png)
+![Final Display](images/finaldisplay.png)
 ---
 
 > 💡 Every step is automated, traceable, and built with transparency in mind — all thanks to our team’s magic.
