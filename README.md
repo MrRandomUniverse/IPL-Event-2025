@@ -77,7 +77,7 @@ At the end of the IPL season:
 - View your **rank** on the leaderboard.
 - See **top winners**, **top losers**, and where you stand.
   
-![Leaderboard SS](images/leaderboard.png)
+![Leaderboard SS](images/leaderboard-new.png)
 
 ### `.match`
 - Get a full IPL schedule
